@@ -2,8 +2,7 @@
 <a href="https://www.linkedin.com/in/remmingtonstewart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Dedicated and highly motivated IT professional with a Master of Science in Cybersecurity and a B.B.A in Computer Information Systems. Possessing a strong foundation in systems administration and technical support, combined with expertise in network infrastructure, security protocols, and cloud technologies. Eager to leverage my certifications and technical skills to secure an entry-level Security Analyst position, where I can contribute to the design, implementation, and maintenance of robust IT solutions.
-ems.
+Motivated and technically-savvy early-career cybersecurity professional with a foundational background in systems administration and hands-on experience in penetration testing via the TryHackMe platform. Eager to leverage strong problem-solving skills, familiarity with network and host-based security controls, and a commitment to continuous learning to support an organization’s defensive posture and contribute to real-world threat detection and mitigation.
 
 ## Objective
 
