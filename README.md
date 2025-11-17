@@ -6,7 +6,7 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 
 ## Objective
 
-My journey as a CyberSecurity major and working in the systems administrator field  has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Motivated and technically-savvy early-career cybersecurity professional with a foundational background in systems administration and hands-on experience in penetration testing via the TryHackMe platform. Eager to leverage strong problem-solving skills, familiarity with network and host-based security controls, and a commitment to continuous learning to support an organization’s defensive posture and contribute to real-world threat detection and mitigation.
 
 ## Skills
 
