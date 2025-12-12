@@ -1,4 +1,4 @@
-# Hello, I'm Remmington 
+<img width="468" height="72" alt="image" src="https://github.com/user-attachments/assets/a8bf614e-787c-45ee-872f-8e99054a6409" /># Hello, I'm Remmington 
 <a href="https://www.linkedin.com/in/remmingtonstewart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -7,6 +7,11 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 ## Objective
 
 Motivated and technically-savvy early-career cybersecurity professional with a foundational background in systems administration and hands-on experience in penetration testing via the TryHackMe platform. Eager to leverage strong problem-solving skills, familiarity with network and host-based security controls, and a commitment to continuous learning to support an organization’s defensive posture and contribute to real-world threat detection and mitigation.
+
+## Education
+M.S., Cybersecurity & Information Assurance | Western Governance University | Dec 2025
+M.S., Cybersecurity | Kennesaw State University | Aug 2022
+B.B.A., Computer Information Systems (Cybersecurity concentration) | Georgia State University | Aug 2019
 
 ## Skills
 
@@ -54,7 +59,7 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 <img src="https://img.shields.io/badge/-ISC2 CC%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+## Featured Projects
 - ISSP Policy 
 - Detection Lab
 - SOC Automation Project
