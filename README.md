@@ -1,30 +1,27 @@
-<img width="468" height="72" alt="image" src="https://github.com/user-attachments/assets/a8bf614e-787c-45ee-872f-8e99054a6409" /># Hello, I'm Remmington 
-<a href="https://www.linkedin.com/in/remmingtonstewart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋🏾 Hi, I'm Remmington 
 
-
+## About Me 
 Motivated and technically-savvy early-career cybersecurity professional with a foundational background in systems administration and hands-on experience in penetration testing via the TryHackMe platform. Eager to leverage strong problem-solving skills, familiarity with network and host-based security controls, and a commitment to continuous learning to support an organization’s defensive posture and contribute to real-world threat detection and mitigation.
 
-## Objective
 
-Motivated and technically-savvy early-career cybersecurity professional with a foundational background in systems administration and hands-on experience in penetration testing via the TryHackMe platform. Eager to leverage strong problem-solving skills, familiarity with network and host-based security controls, and a commitment to continuous learning to support an organization’s defensive posture and contribute to real-world threat detection and mitigation.
+## 🎓 Education
+📌 M.S., Cybersecurity & Information Assurance — Western Governors University (Dec 2025)  
+📌 M.S., Cybersecurity — Kennesaw State University (Aug 2022)  
+📌 B.B.A., Computer Information Systems (Cybersecurity concentration) — Georgia State University (Aug 2019)
 
-## Education
-M.S., Cybersecurity & Information Assurance | Western Governance University | Dec 2025
-M.S., Cybersecurity | Kennesaw State University | Aug 2022
-B.B.A., Computer Information Systems (Cybersecurity concentration) | Georgia State University | Aug 2019
 
-## Skills
+## Featured Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Project | Description | Skills / Tools |
+|--------|-------------|----------------|
 
-## Tools
+| Project Name       | Description                          | Skills Used              | Tools Used                  |
+|-------------------|--------------------------------------|-------------------------|----------------------------|
+| Portfolio Website  | Personal website to showcase projects| HTML, CSS, JavaScript   | VS Code, GitHub, Chrome    |
+| Inventory System   | Tracks stock and sales for a store   | Python, SQL             | PyCharm, MySQL, Git        |
+| Cybersecurity Lab  | Practice network security scenarios  | Networking, Python      | Wireshark, Nmap, Kali Linux|
+
+## 🔧 Tech Stack
 
 ### Network
 <div>
@@ -59,7 +56,6 @@ B.B.A., Computer Information Systems (Cybersecurity concentration) | Georgia Sta
 <img src="https://img.shields.io/badge/-ISC2 CC%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Featured Projects
-- ISSP Policy 
-- Detection Lab
-- SOC Automation Project
+## 📫 Contact
+📌 LinkedIn: 
+📌 Github: 
