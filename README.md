@@ -17,9 +17,9 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 
 | Project Name       | Description                          | Skills Used              | Tools Used                  |
 |-------------------|--------------------------------------|-------------------------|----------------------------|
-| Portfolio Website  | Personal website to showcase projects| HTML, CSS, JavaScript   | VS Code, GitHub, Chrome    |
-| Inventory System   | Tracks stock and sales for a store   | Python, SQL             | PyCharm, MySQL, Git        |
-| Cybersecurity Lab  | Practice network security scenarios  | Networking, Python      | Wireshark, Nmap, Kali Linux|
+| Azure Cloud Security Implementation | Personal website to showcase projects| Designed and implemented a secure IaaS environment in Microsoft Azure, including RBAC, Key Vault encryption, and backup/recovery systems, aligned with PCI DSS and FISMA compliance.  | Cloud Security, Azure IaaS, Role-Based Access Control, Data Encryption, Backup & Recovery, Compliance  | Microsoft Azure, Azure Key Vault, Azure Backup, PowerShell, GitHub
+
+
 
 ## 🔧 Tech Stack
 
@@ -32,13 +32,11 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -57,5 +55,5 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 </div>
 
 ## 📫 Contact
-📌 LinkedIn: 
+📌 LinkedIn: https://www.linkedin.com/in/remmingtonstewart/
 📌 Github: 
