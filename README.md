@@ -18,6 +18,7 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 | Project Name       | Description                          | Skills Used              | Tools Used                  |
 |-------------------|--------------------------------------|-------------------------|----------------------------|
 | [Azure Cloud Security Implemenation ](https://github.com/Remmytaylor/Azure-Cloud-Security-Implementation) | Designed and implemented a secure IaaS environment in Microsoft Azure, including RBAC, Key Vault encryption, and backup/recovery systems, aligned with PCI DSS and FISMA compliance.  | Cloud Security, Azure IaaS, Role-Based Access Control, Data Encryption, Backup & Recovery, Compliance  | Microsoft Azure, Azure Key Vault, Azure Backup, PowerShell, GitHub
+| Microsoft Entra ID User Management |Implemented user lifecycle management in Microsoft Entra ID (Azure AD) via the Azure portal. Tasks included creating new user accounts, modifying user properties, resetting passwords, revoking access, and deleting users, demonstrating practical identity and access management skills. | Identity & Access Management (IAM), User Provisioning & Deprovisioning, Role-Based Access Control (RBAC), Azure Portal |  
 
 
 
