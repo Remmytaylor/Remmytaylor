@@ -17,7 +17,7 @@ Motivated and technically-savvy early-career cybersecurity professional with a f
 
 | Project Name       | Description                          | Skills Used              | Tools Used                  |
 |-------------------|--------------------------------------|-------------------------|----------------------------|
-| Azure Cloud Security Implementation | Designed and implemented a secure IaaS environment in Microsoft Azure, including RBAC, Key Vault encryption, and backup/recovery systems, aligned with PCI DSS and FISMA compliance.  | Cloud Security, Azure IaaS, Role-Based Access Control, Data Encryption, Backup & Recovery, Compliance  | Microsoft Azure, Azure Key Vault, Azure Backup, PowerShell, GitHub
+| [Azure Cloud Security Implemenation ](https://github.com/Remmytaylor/Azure-Cloud-Security-Implementation) | Designed and implemented a secure IaaS environment in Microsoft Azure, including RBAC, Key Vault encryption, and backup/recovery systems, aligned with PCI DSS and FISMA compliance.  | Cloud Security, Azure IaaS, Role-Based Access Control, Data Encryption, Backup & Recovery, Compliance  | Microsoft Azure, Azure Key Vault, Azure Backup, PowerShell, GitHub
 
 
 
